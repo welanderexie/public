@@ -1,1 +1,1 @@
-{"hul":"updategblink.store"}
+{"hul":"updateapp-v1.online"}
